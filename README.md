@@ -5,3 +5,6 @@ Sweep: SG90 servo -> pinion 14 teeth -> left gear 35 -> right gear (module 1, in
 Hardware: SG90 servo, 2 pivot rods 2 mm x 13 mm (floor to roof), 4 dowels 1.5 mm x 3 mm, 1 screw M1.6/M2 for the roof standoff, glue.
 Walls are 1.0 mm (print with 0.4 mm nozzle, 2-3 perimeters). Plug joints between fuselage shells: glue. Side mounts have a saddle that sits on the straight band of the tail section. Tail is fixed (no hinged surfaces).
 Props: 3-blade, hub bore 1.6 mm; fix to the pod rear with a 1.5 mm pin or glue.
+
+
+<img width="1653" height="1295" alt="Screenshot from 2026-11-26 17-23-56" src="https://github.com/user-attachments/assets/e12a53a4-9b00-47d0-9a33-8d2bfa2da09e" />
